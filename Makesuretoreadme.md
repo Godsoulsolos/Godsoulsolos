@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Godsoulsolos 
 - 👀 I’m interested in creating bots I need a partner
 - 🌱 I’m currently learning node js
-- 💞️ I’m looking to collaborate on WhatsApp nots
+- 💞️ I’m looking to collaborate on WhatsApp bots
 - 📫 How to reach me on WhatsApp +2349070616688
 
 <!---
